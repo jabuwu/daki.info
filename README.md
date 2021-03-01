@@ -1,5 +1,7 @@
 # daki.info
 
+**Note:** currently hosting the guide written by berseventimes, code in the [guide branch](https://github.com/jabuwu/daki.info/tree/guide)
+
 Information regarding Dakimakura collecting, purchasing, and commissioning, conveniently available at [daki.info](https://daki.info/)
 
 Topics worth covering:
